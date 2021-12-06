@@ -3,7 +3,7 @@ ADVANCED DATA ANALYSIS 2021
 
 EVENT BASED TRADING ALGORITHM: A REDDIT CASE
 
-Authors: Sebastien Gorgoni & Liam Svoboba
+Authors: Sebastien Gorgoni & Liam Svoboda
 
 File Name: main.py
 
